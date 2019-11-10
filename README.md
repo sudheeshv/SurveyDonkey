@@ -15,4 +15,4 @@ You should now be up and running with live browser reloading of the example webs
 
 ## License
 
-MIT © [nikhilpatteri](https://github.com/nikhilpatteri)) and [the contributors](https://github.com/tabler/tabler-react/graphs/contributors).
+MIT © [nikhilpatteri](https://github.com/nikhilpatteri) and [the contributors](https://github.com/sudheeshv/surveydonkey/graphs/contributors).
